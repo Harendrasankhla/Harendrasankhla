@@ -1,105 +1,241 @@
 # Harendra Singh Sankhla
 
-### DevOps Engineer | AWS | Docker | Jenkins | Linux | CI/CD | Cloud Monitoring
+## DevOps Engineer | AWS | Kubernetes | Terraform | Docker | Jenkins | GitOps | CI/CD | Cloud-Native Infrastructure
 
-I am a DevOps Engineer focused on building secure, automated, and scalable cloud infrastructure.  
-My work involves integrating cloud automation, CI/CD pipelines, and monitoring systems to improve reliability, deployment speed, and operational visibility.  
-I specialize in designing AWS environments, managing containerized deployments, and implementing continuous delivery pipelines that enhance software delivery and performance.
+I am a DevOps Engineer focused on building scalable, secure, and highly available cloud-native infrastructure using AWS, Kubernetes, Terraform, and CI/CD automation.
 
----
+My expertise includes designing production-grade AWS environments, automating infrastructure provisioning, managing Kubernetes workloads, implementing GitOps-driven deployment pipelines, and building observability platforms for monitoring and operational reliability.
 
-## About Me
+I specialize in:
 
-I currently work as a **DevOps Engineer at Webvio Technologies**, where I manage the complete DevOps lifecycle—from infrastructure provisioning to continuous deployment and monitoring.  
-I design and maintain AWS-based cloud environments using EC2, S3, CloudFront, Auto Scaling, and ALB, ensuring high availability and optimized performance for production workloads.  
-I’ve implemented automated pipelines in Jenkins, integrated SonarQube for code-quality checks, and built real-time notifications with Microsoft Teams and Bitbucket Pipelines.
-
-Prior to this, at **Concentrix**, I worked as a **Junior DevOps Engineer**, where I automated CI/CD workflows using Jenkins, Docker, and Ansible, and deployed containerized applications on AWS.  
-These efforts improved deployment speed by 40% and reduced infrastructure costs through better scaling and automation.  
-My early career at **Teleperformance** gave me a strong foundation in systems administration, performance optimization, and troubleshooting in enterprise environments.
-
-I am deeply interested in automation, observability, and cloud-native technologies.  
-My key strengths include **DevOps automation, cloud architecture, containerization, CI/CD pipeline design, and infrastructure monitoring** using Prometheus and Grafana.
+* Cloud Infrastructure Automation
+* Kubernetes & Container Orchestration
+* CI/CD Pipeline Engineering
+* Infrastructure as Code (IaC)
+* Monitoring & Observability
+* DevSecOps & Security Automation
+* Production Deployment Automation
 
 ---
 
-## Technical Skills
+# About Me
 
-**Cloud & Infrastructure**  
-AWS (EC2, VPC, EFS, Route 53, Auto Scaling, ALB, S3, CloudFront, CloudWatch)  
+I currently work as a **DevOps Engineer at Webvio Technologies**, where I manage cloud infrastructure, CI/CD automation, Kubernetes operations, and deployment engineering for production applications.
 
-**Containerization**  
-Docker, Docker Compose, Podman  
+My responsibilities include:
 
-**CI/CD & Automation**  
-Jenkins, GitHub Actions, Bitbucket Pipelines, Shell Scripting  
+* Architecting scalable AWS cloud environments
+* Managing Kubernetes workloads and microservices deployments
+* Building Jenkins-based CI/CD pipelines
+* Implementing deployment automation workflows
+* Managing cloud-native infrastructure
+* Integrating monitoring and observability systems
+* Improving deployment reliability and operational efficiency
 
-**Monitoring & Observability**  
-Prometheus, Grafana, CloudWatch, SonarQube  
+I work extensively with:
 
-**Security & Compliance**  
-OWASP ZAP, Prowler, DevSecOps Practices  
+* AWS (EC2, VPC, S3, CloudFront, ALB, Auto Scaling, Route53, RDS, IAM, EFS, CloudWatch)
+* Kubernetes, EKS, Docker, Helm
+* Terraform and Infrastructure as Code
+* Jenkins, GitHub Actions, Bitbucket Pipelines
+* Prometheus, Grafana, SonarQube
+* Linux Administration, Bash, Python
 
-**Operating Systems & Scripting**  
-Linux (RHEL, Ubuntu), Bash, Python, Git  
+Previously, at **Concentrix**, I worked as a **Junior DevOps Engineer**, where I automated CI/CD pipelines using Jenkins, Docker, Git, and Ansible while deploying scalable workloads on AWS infrastructure.
 
----
+These implementations:
 
-## Featured Projects
+* improved deployment speed by 40%
+* reduced operational overhead
+* improved system reliability
+* optimized cloud infrastructure costs
 
-### AWS CI/CD Pipeline for Full-Stack Application
-Designed and deployed a complete CI/CD pipeline for Angular and Node.js applications using **Jenkins**, **GitHub**, **S3**, **CloudFront**, **ALB**, and **Auto Scaling**.  
-Automated both frontend and backend deployments, ensuring zero manual intervention and consistent delivery across environments.  
-**Tools:** AWS, Jenkins, GitHub, S3, CloudFront, ALB  
+I am deeply interested in:
 
----
-
-### SonarQube Integration with Bitbucket Pipelines
-Configured **SonarQube Community Edition** on Linux servers for automated code-quality scans triggered via **Bitbucket Pipelines**.  
-Implemented **Microsoft Teams** notifications for real-time feedback on build results and quality gate status.  
-**Tools:** SonarQube, Bitbucket Pipelines, Linux  
-
----
-
-### AWS EC2 Cloud Monitoring Setup
-Deployed **Prometheus** and **Grafana** for monitoring AWS EC2 instances, creating custom dashboards and alerting for CPU, memory, and network utilization.  
-Enabled better visibility into system performance and uptime metrics.  
-**Tools:** AWS, Prometheus, Grafana  
-
----
-
-### Jenkins CI/CD Pipeline Automation
-Developed an end-to-end CI/CD pipeline using **Jenkins**, **Git**, **Ansible**, and **Docker**.  
-Automated image creation and deployments across staging and production environments, reducing deployment time by approximately 70%.  
-**Tools:** Jenkins, Git, Ansible, Docker  
+* Kubernetes Ecosystem
+* Cloud-Native Infrastructure
+* Platform Engineering
+* GitOps Workflows
+* DevSecOps
+* Infrastructure Automation
+* Monitoring & Observability
 
 ---
 
-### Security Compliance Automation
-Integrated **OWASP ZAP** for automated dynamic application security testing and configured **Prowler** for AWS compliance checks (CIS, GDPR, ISO 27001).  
-Generated detailed audit and vulnerability reports for continuous security validation.  
-**Tools:** OWASP ZAP, Prowler, Jenkins, AWS  
+# Technical Skills
+
+## Cloud & Infrastructure
+
+* AWS (EC2, VPC, S3, CloudFront, ALB, Auto Scaling, Route53, CloudWatch, IAM, RDS, EFS)
+
+## Containerization & Orchestration
+
+* Kubernetes
+* Amazon EKS
+* Docker
+* Docker Compose
+* Helm
+* Podman
+
+## CI/CD & Automation
+
+* Jenkins
+* GitHub Actions
+* Bitbucket Pipelines
+* Terraform
+* AWS CodeDeploy
+* GitOps
+* Shell Scripting
+
+## Monitoring & Observability
+
+* Prometheus
+* Grafana
+* CloudWatch
+* SonarQube
+
+## Security & DevSecOps
+
+* OWASP ZAP
+* Prowler
+* DevSecOps Practices
+* Security Compliance Automation
+
+## Operating Systems & Scripting
+
+* Linux (RHEL, Ubuntu)
+* Bash
+* Python
+* Git
 
 ---
 
-## Certifications
+# Featured Projects
 
-- **Red Hat Certified System Administrator (RHCSA)**  
-- **AWS Certified Cloud Practitioner (CLF-C02)**  
-- **Red Hat Certified Specialist in Containers (Docker)**  
+## Kubernetes-Based Microservices Deployment Platform
+
+Designed and implemented a cloud-native Kubernetes platform for deploying scalable microservices applications using Docker and Kubernetes.
+
+### Key Features
+
+* Kubernetes Deployments and Services
+* Ingress Controllers
+* ConfigMaps and Secrets
+* Horizontal Pod Autoscaling (HPA)
+* Rolling Updates
+* Namespace Isolation
+* Helm-based Deployments
+* GitOps-driven Deployment Workflows
+
+### Technologies
+
+`Kubernetes` `Docker` `Helm` `Ingress` `HPA` `GitOps`
 
 ---
 
-## Education
+## AWS CI/CD Pipeline for Full-Stack Application
 
-**Master of Computer Applications (MCA)** – Manipal University, Jaipur  
-Courses: Cloud Computing, Operating Systems, Network Security  
-*Aug 2023 – Sept 2025*
+Designed and deployed a scalable CI/CD pipeline for Angular and Node.js applications using Jenkins and AWS cloud services.
+
+### Key Features
+
+* Automated frontend deployment to S3 + CloudFront
+* Backend deployment automation using Jenkins and AWS CodeDeploy
+* Zero-downtime deployment workflows
+* CI/CD automation for production environments
+
+### Technologies
+
+`AWS` `Jenkins` `S3` `CloudFront` `ALB` `CodeDeploy`
 
 ---
 
-## Contact
+## Jenkins CI/CD Pipeline Automation
 
-**LinkedIn:** [linkedin.com/in/harendrasankhla](https://linkedin.com/in/harendrasankhla)  
-**Email:** 7860harendra@gmail.com  
-**Location:** Kolkata, India
+Built enterprise-grade CI/CD pipelines integrating Jenkins, Git, Docker, and Kubernetes deployment automation.
+
+### Key Features
+
+* Automated build and deployment pipelines
+* Docker image lifecycle management
+* SonarQube code-quality integration
+* Multi-environment deployment workflows
+* Automated notifications and deployment visibility
+
+### Technologies
+
+`Jenkins` `Docker` `Git` `Kubernetes` `SonarQube`
+
+---
+
+## Monitoring & Observability Platform
+
+Implemented cloud monitoring and observability solutions for infrastructure and application visibility.
+
+### Key Features
+
+* Prometheus metrics collection
+* Grafana dashboards
+* EC2 infrastructure monitoring
+* Resource utilization alerting
+* Operational visibility for production workloads
+
+### Technologies
+
+`Prometheus` `Grafana` `CloudWatch` `AWS`
+
+---
+
+## DevSecOps & Security Compliance Automation
+
+Integrated automated security validation and compliance scanning into CI/CD workflows.
+
+### Key Features
+
+* OWASP ZAP automated security scans
+* AWS compliance auditing using Prowler
+* Vulnerability assessment automation
+* Security reporting and compliance validation
+
+### Technologies
+
+`OWASP ZAP` `Prowler` `AWS` `Jenkins`
+
+---
+
+# Certifications
+
+* AWS Certified Solutions Architect Associate (SAA-C03)
+* Red Hat Certified System Administrator (RHCSA)
+* Red Hat Certified Specialist in Containers (Docker)
+
+---
+
+# Currently Learning
+
+* ArgoCD
+* Advanced Kubernetes Operations
+* Platform Engineering
+* Kubernetes Operators
+* Service Mesh (Istio)
+* Advanced Terraform Modules
+
+---
+
+# Connect With Me
+
+* LinkedIn: https://linkedin.com/in/harendrasankhla
+* Email: [7860harendra@gmail.com](mailto:7860harendra@gmail.com)
+* Location: Kolkata, India
+
+---
+
+# GitHub Focus Areas
+
+* Kubernetes & Cloud-Native Infrastructure
+* AWS Cloud Automation
+* Infrastructure as Code (Terraform)
+* CI/CD Pipeline Engineering
+* DevSecOps Automation
+* Monitoring & Observability
+* Platform Engineering
